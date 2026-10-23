@@ -1,0 +1,122 @@
+[
+  {
+    "scenario": "baseline",
+    "strategy": "No cooling",
+    "peak_c": 92.44047728179584,
+    "final_c": 92.44047728179584,
+    "peak_spread_c": 6.8185053594103096,
+    "seconds_above_limit": 998,
+    "pump_wh": 0.0,
+    "delivered_l": 0.0
+  },
+  {
+    "scenario": "baseline",
+    "strategy": "Fixed flow",
+    "peak_c": 31.73683856632974,
+    "final_c": 31.73683856632974,
+    "peak_spread_c": 1.5410608926876144,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.6666666666666495,
+    "delivered_l": 20.0
+  },
+  {
+    "scenario": "baseline",
+    "strategy": "Thermostatic",
+    "peak_c": 38.045232696447435,
+    "final_c": 35.498879547894994,
+    "peak_spread_c": 2.6319103582928207,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.3544444444444409,
+    "delivered_l": 10.633333333333333
+  },
+  {
+    "scenario": "baseline",
+    "strategy": "Adaptive proportional",
+    "peak_c": 36.2531115044417,
+    "final_c": 36.24611247799448,
+    "peak_spread_c": 2.5832737233176886,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.060468649729453115,
+    "delivered_l": 8.67385877532119
+  },
+  {
+    "scenario": "flow_fault",
+    "strategy": "No cooling",
+    "peak_c": 92.44047728179584,
+    "final_c": 92.44047728179584,
+    "peak_spread_c": 6.8185053594103096,
+    "seconds_above_limit": 998,
+    "pump_wh": 0.0,
+    "delivered_l": 0.0
+  },
+  {
+    "scenario": "flow_fault",
+    "strategy": "Fixed flow",
+    "peak_c": 43.26452758235231,
+    "final_c": 43.26452758235231,
+    "peak_spread_c": 4.031402011086357,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.6666666666666495,
+    "delivered_l": 12.0
+  },
+  {
+    "scenario": "flow_fault",
+    "strategy": "Thermostatic",
+    "peak_c": 43.59029142095315,
+    "final_c": 43.59029142095315,
+    "peak_spread_c": 4.129482014227612,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.49499999999999034,
+    "delivered_l": 6.85
+  },
+  {
+    "scenario": "flow_fault",
+    "strategy": "Adaptive proportional",
+    "peak_c": 43.651711729006415,
+    "final_c": 43.651711729006415,
+    "peak_spread_c": 4.150215377115487,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.33028480540843624,
+    "delivered_l": 5.951314829886475
+  },
+  {
+    "scenario": "urban_pulses",
+    "strategy": "No cooling",
+    "peak_c": 66.73723074672694,
+    "final_c": 66.17907385624397,
+    "peak_spread_c": 4.124520616192058,
+    "seconds_above_limit": 822,
+    "pump_wh": 0.0,
+    "delivered_l": 0.0
+  },
+  {
+    "scenario": "urban_pulses",
+    "strategy": "Fixed flow",
+    "peak_c": 31.223931071488213,
+    "final_c": 29.01500810466374,
+    "peak_spread_c": 1.1757006657787343,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.6666666666666495,
+    "delivered_l": 20.0
+  },
+  {
+    "scenario": "urban_pulses",
+    "strategy": "Thermostatic",
+    "peak_c": 38.059073261251555,
+    "final_c": 36.71712966811262,
+    "peak_spread_c": 2.2783847508334887,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.18000000000000058,
+    "delivered_l": 5.4
+  },
+  {
+    "scenario": "urban_pulses",
+    "strategy": "Adaptive proportional",
+    "peak_c": 35.94510448694687,
+    "final_c": 34.55939714568915,
+    "peak_spread_c": 2.4048790829154783,
+    "seconds_above_limit": 0,
+    "pump_wh": 0.015170038244732526,
+    "delivered_l": 4.7177525270759535
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "duration_s": 1200,
+  "current_a": 16.0,
+  "ambient_c": 30.0,
+  "inlet_c": 25.0,
+  "initial_c": 30.0,
+  "max_flow_lpm": 1.0,
+  "profile": "Constant",
+  "blockage": 0.0,
+  "fault_at_s": 600,
+  "warning_c": 45.0,
+  "uniformity_c": 5.0
+}
